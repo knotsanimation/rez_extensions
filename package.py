@@ -29,4 +29,4 @@ def commands():
 
 
 with scope("config") as _config:
-    _config.release_packages_path = "N:/skynet/apps/rez/extensions"
+    _config.release_packages_path = "N:/skynet/apps/rez/setup"
