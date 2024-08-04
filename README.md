@@ -6,16 +6,7 @@ Extend rez behavior using its native plugins features.
 
 - perform necessary changes
 - commit and push
-- ensure you are deploying from the `main` branch
-- execute 
-  ```shell
-  rez env python pythonning
-  python deploy.py
-  ```
-
-⚠ Be aware this deploy sript is specific to the Knots rez infrastructure and 
-would need to be edited for other infrastructures.
-
+- check [knots-pipe-internals](https://github.com/knotsanimation/knots-pipe-internals) to deploy on server
 
 # content
 
